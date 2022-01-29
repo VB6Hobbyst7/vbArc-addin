@@ -11,3 +11,6 @@ note keeper (text, text to speech, voice recording, worksheet range as image)
 
 Project export / import / rename components / add components / refresh / SPECIAL PRINT (pdf, color scheme, code blocks linked)
 ![Capture](https://user-images.githubusercontent.com/62287665/151671814-b6a9c940-acfa-4816-8c3d-2adbd6b82e27.PNG)
+
+Command bars builder (all sheet and vbeditor types, multiple bars handled)
+![Capture](https://user-images.githubusercontent.com/62287665/151672316-13653360-7cb1-4400-a72d-381bcdd9c4fc.PNG)
