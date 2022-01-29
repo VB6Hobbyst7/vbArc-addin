@@ -1,5 +1,5 @@
 # vbArc-addin
-Some of my vba projects in an addin 
+Some of my vba projects in an addin (since i'm consolidating various stuff bugs are expected)
 
 ![xml](https://user-images.githubusercontent.com/62287665/151671460-35a42f56-4ca2-4905-ab80-52381fac2b77.PNG)
 
