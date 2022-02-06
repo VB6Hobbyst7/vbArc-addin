@@ -10,6 +10,7 @@ note keeper (text, text to speech, voice recording, worksheet range as image)
 ![m0](https://user-images.githubusercontent.com/62287665/151671775-4422917e-817d-44d5-abf8-4b48525bc1fb.PNG)
 
 Project export / import / rename components / add components / refresh / SPECIAL PRINT (pdf, color scheme, code blocks linked)
+
 ![Capture](https://user-images.githubusercontent.com/62287665/151671814-b6a9c940-acfa-4816-8c3d-2adbd6b82e27.PNG)
 ![Capture](https://user-images.githubusercontent.com/62287665/151672488-d3e8bbf6-5cee-4900-87c0-f4ffd17154cb.PNG)
 
